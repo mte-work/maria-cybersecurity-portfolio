@@ -1,12 +1,11 @@
 <h1>Hi, I'm Maria Tahaibeline! Welcome to my Cyber Security Portfolio!
-<br/><a href="https://github.com/mte-work/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<br/><a href="https://github.com/mte-work/">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a>Runner 🏃🏽‍♀️</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+  <h2>🔭 I’m currently working on ...</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>This portfolio!</b>
+  - [Under construction... 🚧](https://github.com/joshmadakor1/Algorithms-Practice)
+<!--
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
