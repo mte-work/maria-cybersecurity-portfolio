@@ -1,3 +1,6 @@
+<img width="904" height="226" alt="image" src="https://github.com/user-attachments/assets/497c7f04-5d74-41b5-92d3-a3f9981fbab2" />
+
+
 ## Command 1: whoami
 
 ### _Purpose_
