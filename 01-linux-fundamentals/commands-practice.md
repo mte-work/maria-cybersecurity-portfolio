@@ -33,5 +33,60 @@ Understanding the Linux filesystem structure is essential for:
 ls /
 ```
 
+## Command 3: _pwd_
+
+<img width="342" height="52" alt="image" src="https://github.com/user-attachments/assets/b0c40136-008a-4769-892d-6cdd083eea43" />
+
+### _Purpose_:
+The `pwd` command displays the current working directory.
+
+### _Why This Matters in Cybersecurity_:
+Knowing your current location is critical when:
+- Investigating files
+- Running commands that affect the system
+- Avoiding accidental changes in sensitive directories
+
+### Command
+```bash
+pwd
+```
+
+## Command 4: _cd_
+
+<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/d5f0784d-a201-4012-bfe0-17da163bbe42" />
+
+### _Purpose:_
+The `cd` command is used to change directories.
+
+### _Why This Matters in Cybersecurity:_
+Navigating directories safely is essential when:
+- Inspecting logs
+- Reviewing configuration files
+- Performing forensic analysis without altering data
+
+### Commands
+```bash
+cd /
+pwd
+cd ~
+```
+
+## Command 5: ls -l
+
+<img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  />
+
+### Purpose
+The `ls -l` command lists files and directories in long format, including permissions and ownership.
+
+### Why This Matters in Cybersecurity
+File permissions help determine:
+- Who can read, write, or execute a file
+- Whether a file could be abused or misconfigured
+- Potential privilege escalation risks
+
+### Command
+```bash
+ls -l
+```
 
 
