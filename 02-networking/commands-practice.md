@@ -21,3 +21,21 @@ Understanding network interfaces and IP addressing is essential for:
 ip addr
 ```
 
+## Command 2: _ip route_
+
+<img width="864" height="80" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/423e4627-16ce-4a14-9a45-11f08bb7e954" />
+
+
+### _Purpose_
+Displays the routing table used by the system to determine where network traffic is sent.
+
+### Why This Matters in Cybersecurity
+The routing table reveals how data exits the system, including default gateways,
+which is essential when analyzing network access and potential data leakage paths.
+
+### _Command_
+```bash
+ip route
+```
+
+
