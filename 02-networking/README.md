@@ -10,3 +10,7 @@ ports, and interfaces.
 ## Environment
 - OS: Ubuntu 24.04 LTS (Virtual Machine)
 
+## Key Skills Demonstrated
+- Identifying network interfaces
+- Understanding IP addressing at a system level
+- Using Linux networking tools for visibility
