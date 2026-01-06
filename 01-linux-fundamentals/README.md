@@ -1,4 +1,4 @@
-# Linux Fundamentals for Cybersecurity
+# Linux Fundamentals
 
 ## _Objective_:
 Learn and demonstrate basic Linux skills commonly used in cybersecurity, including
