@@ -8,3 +8,6 @@
 
 ## Command 3: _pwd_
 <img width="342" height="52" alt="image" src="https://github.com/user-attachments/assets/b0c40136-008a-4769-892d-6cdd083eea43" />
+
+## Command 4: _cd_
+<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/d5f0784d-a201-4012-bfe0-17da163bbe42" />
