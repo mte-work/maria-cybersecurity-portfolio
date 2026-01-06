@@ -34,9 +34,9 @@ Understanding the Linux filesystem structure is essential for:
 ls /
 ```
 
-## Command 3: _pwd_
+## Command 3: ![_pwd_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-3-pwd)
 
-<img width="342" height="52" alt="image" src="https://github.com/user-attachments/assets/b0c40136-008a-4769-892d-6cdd083eea43" />
+<!--<img width="342" height="52" alt="image" src="https://github.com/user-attachments/assets/b0c40136-008a-4769-892d-6cdd083eea43" />-->
 
 ### _Purpose_:
 The `pwd` command displays the current working directory.
@@ -52,9 +52,9 @@ Knowing your current location is critical when:
 pwd
 ```
 
-## Command 4: _cd_
+## Command 4: ![_cd_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-4-cd)
 
-<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/d5f0784d-a201-4012-bfe0-17da163bbe42" />
+<!--<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/d5f0784d-a201-4012-bfe0-17da163bbe42" />-->
 
 ### _Purpose:_
 The `cd` command is used to change directories.
@@ -72,9 +72,9 @@ pwd
 cd ~
 ```
 
-## Command 5: _ls -l_
+## Command 5: ![_ls -l_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-5-ls--l)
 
-<img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  />
+<!--<img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  /> -->
 
 ### Purpose
 The `ls -l` command lists files and directories in long format, including permissions and ownership.
@@ -90,20 +90,18 @@ File permissions help determine:
 ls -l
 ```
 
-## Command 6: _chmod_
+## Command 6: ![_chmod_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-6-chmod)
 
-<img width="827" height="128" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/388f2f26-16f3-4dc7-81d1-54a1b7ae06e8" />
+<!--<img width="827" height="128" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/388f2f26-16f3-4dc7-81d1-54a1b7ae06e8" />-->
 
 ### _Purpose_:
-The `chmod` command changes file permissions.
+The `chmod` command changes file permissions. Understanding and correcting permissions is a core security responsibility.
 
 ### _Why This Matters in Cybersecurity:_
 Incorrect file permissions can:
 - Expose sensitive data
 - Allow unauthorized modification
 - Lead to privilege escalation
-
-Understanding and correcting permissions is a core security responsibility.
 
 ### Commands
 ```bash
@@ -112,20 +110,18 @@ chmod 600 permission-test.txt
 ls -l permission-test.txt
 ```
 
-## Command 7: _Viewing system logs_
+## Command 7: ![_ls /var/log](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-7-viewing-system-logs)
 
-<img width="949" height="295" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/459c6f93-6f8a-4bff-af40-eb85f61dca2e" />
+<!--<img width="949" height="295" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/459c6f93-6f8a-4bff-af40-eb85f61dca2e" />-->
 
 ### _Purpose:_
-System logs record events related to authentication, system behavior, and application activity.
+`ls /var/log` allows for viewing system logs. System logs record events related to authentication, system behavior, and application activity. Security analysts rely heavily on logs during investigations.
 
 ### _Why This Matters in Cybersecurity:_
 Logs are essential for:
 - Detecting unauthorized access
 - Investigating incidents
 - Understanding system behavior over time
-
-Security analysts rely heavily on logs during investigations.
 
 ### Command
 ```bash
