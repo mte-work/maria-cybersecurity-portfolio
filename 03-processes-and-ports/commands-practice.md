@@ -36,5 +36,6 @@ Open ports are potential attack vectors. Monitoring and understanding them is cr
 ### Command
 ```bash
 ss -tuln
+```
 
 
