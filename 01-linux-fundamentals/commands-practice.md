@@ -1,8 +1,7 @@
-
 ## Command 1: _whoami_
 <img width="395" height="56" alt="image" src="https://github.com/user-attachments/assets/70fab8a4-411a-45d3-9d1d-fad0ab19f911" />
 
-### _Purpose_
+### _Purpose_:
 The `whoami` command displays the username of the currently logged-in user.
 
 ### _Why This Matters in Cybersecurity_:
@@ -17,7 +16,7 @@ whoami
 ```
 
 ## Command 2: _ls /_
-<img width="906" height="159" alt="image" src="https://github.com/user-attachments/assets/29e7dae9-e2ca-426b-8752-05d12dc4a06a" />
+<img width="906" height="159" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/29e7dae9-e2ca-426b-8752-05d12dc4a06a" />
 
 ### _Purpose_:
 The `ls /` command lists the contents of the root directory.
@@ -71,14 +70,14 @@ pwd
 cd ~
 ```
 
-## Command 5: ls -l
+## Command 5: _ls -l_
 
 <img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  />
 
 ### Purpose
 The `ls -l` command lists files and directories in long format, including permissions and ownership.
 
-### Why This Matters in Cybersecurity
+### _Why This Matters in Cybersecurity:_
 File permissions help determine:
 - Who can read, write, or execute a file
 - Whether a file could be abused or misconfigured
@@ -88,5 +87,49 @@ File permissions help determine:
 ```bash
 ls -l
 ```
+
+## Command 6: _chmod_
+
+<img width="827" height="128" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/388f2f26-16f3-4dc7-81d1-54a1b7ae06e8" />
+
+### _Purpose_:
+The `chmod` command changes file permissions.
+
+### _Why This Matters in Cybersecurity:_
+Incorrect file permissions can:
+- Expose sensitive data
+- Allow unauthorized modification
+- Lead to privilege escalation
+
+Understanding and correcting permissions is a core security responsibility.
+
+### Commands
+```bash
+ls -l permission-test.txt
+chmod 600 permission-test.txt
+ls -l permission-test.txt
+```
+
+## Command 7: _Viewing system logs_
+
+<img width="949" height="295" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/459c6f93-6f8a-4bff-af40-eb85f61dca2e" />
+
+### _Purpose:_
+System logs record events related to authentication, system behavior, and application activity.
+
+### _Why This Matters in Cybersecurity:_
+Logs are essential for:
+- Detecting unauthorized access
+- Investigating incidents
+- Understanding system behavior over time
+
+Security analysts rely heavily on logs during investigations.
+
+### Command
+```bash
+ls /var/log
+```
+
+
 
 
