@@ -16,7 +16,7 @@ Knowing which user account is active is important when:
 whoami
 ```
 
-## Command 2: ![_ls /_](https://github.com/mte-work/maria-cybersecurity-portfolio/edit/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-2-ls-)
+## Command 2: ![_ls /_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-2-ls-)
 
 <!-- <img width="906" height="159" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/29e7dae9-e2ca-426b-8752-05d12dc4a06a" /> -->
 
