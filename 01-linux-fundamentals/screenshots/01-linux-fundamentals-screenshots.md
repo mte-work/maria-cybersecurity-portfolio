@@ -11,3 +11,7 @@
 
 ## Command 4: _cd_
 <img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/d5f0784d-a201-4012-bfe0-17da163bbe42" />
+
+## Command 5: _ls -l_
+
+<img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  />
