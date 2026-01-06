@@ -15,3 +15,11 @@
 ## Command 5: _ls -l_
 
 <img width="717" height="294" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/bf64cdfc-e0e4-4739-a267-caec75c2181b"  />
+
+## Command 6: _chmod_
+
+<img width="827" height="128" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/388f2f26-16f3-4dc7-81d1-54a1b7ae06e8" />
+
+## Command 7: _Viewing system logs_
+
+<img width="949" height="295" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/459c6f93-6f8a-4bff-af40-eb85f61dca2e" />
