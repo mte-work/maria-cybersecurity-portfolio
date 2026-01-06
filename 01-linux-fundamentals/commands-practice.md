@@ -1,6 +1,6 @@
-## Command 1: ![_whoami_](<img width="395" height="56" alt="image" src="https://github.com/user-attachments/assets/ae78a0ab-85c3-49ab-9e79-684e9ea04484" />)
+## Command 1: ![_whoami_](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-1-whoami)
 
-<img width="395" height="56" alt="image" src="https://github.com/user-attachments/assets/1cebec89-a36e-4ba9-b36e-86a6b772d42f" />
+<!--<img width="395" height="56" alt="image" src="https://github.com/user-attachments/assets/1cebec89-a36e-4ba9-b36e-86a6b772d42f" /> -->
 
 ### _Purpose_:
 The `whoami` command displays the username of the currently logged-in user.
@@ -16,8 +16,9 @@ Knowing which user account is active is important when:
 whoami
 ```
 
-## Command 2: _ls /_
-<img width="906" height="159" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/29e7dae9-e2ca-426b-8752-05d12dc4a06a" />
+## Command 2: ![_ls /_](https://github.com/mte-work/maria-cybersecurity-portfolio/edit/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-2-ls-)
+
+<!-- <img width="906" height="159" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/29e7dae9-e2ca-426b-8752-05d12dc4a06a" /> -->
 
 ### _Purpose_:
 The `ls /` command lists the contents of the root directory.
