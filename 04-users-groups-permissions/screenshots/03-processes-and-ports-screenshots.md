@@ -4,3 +4,7 @@
 
 <img width="435" height="51" alt="image" src="https://github.com/user-attachments/assets/c3e5b12f-ae9c-459c-93fd-4f6c59406a3e" />
 
+## Command 2: _id_
+
+<img width="997" height="58" alt="image" src="https://github.com/user-attachments/assets/a0ae4333-f77e-40b3-b380-05a25fb59a70" />
+
