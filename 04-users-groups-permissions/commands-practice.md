@@ -72,7 +72,7 @@ Owner Group Others
 ls -l
 ```
 
-## Command 5: ![stat]()
+## Command 5: ![stat](https://github.com/mte-work/maria-cybersecurity-portfolio/edit/Portfolio/04-users-groups-permissions/screenshots/04-users-groups-permissions-screenshots.md#command-5-stat)
 
 ### Purpose
 Displays detailed file information including permissions, ownership, and timestamps.
