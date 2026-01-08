@@ -1,6 +1,6 @@
 ### Screenshots for: 02-networking
 
-## Command 1:_ ip addr_
+## Command 1: _ip addr_
 
 <img width="1227" height="462" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/dbbbc17c-cb10-493b-a9be-b2d65ac92293" />
 
