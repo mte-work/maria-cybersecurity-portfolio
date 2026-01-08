@@ -86,3 +86,18 @@ stat filename
 ```
 
 The `stat` command was used to verify file ownership, permissions, and metadata. The file was restricted to owner-only access (`0600`), demonstrating least-privilege configuration. Metadata timestamps showed permission changes without content modification.
+
+## Command 6: ![chgrp](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/04-users-groups-permissions/screenshots/04-users-groups-permissions-screenshots.md#command-6-chgrp)
+
+### Purpose
+Changes the group ownership of a file.
+
+### Why This Matters in Cybersecurity
+Linux uses group-based access control to limit which users can access files. By assigning files to a specific group, only members of that group can interact with them according to the file's permissions. This reduces risk by preventing unauthorized users from accessing sensitive data, even if they are on the same system.
+
+### Command
+```bash
+sudo chgrp sudo group-example.txt
+```
+
+In this example, ownership has stayed the same but group ownership has changed. Group members can now access based on existing permissions.
