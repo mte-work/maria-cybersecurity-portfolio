@@ -11,3 +11,6 @@
 ## Command 3: _groups_
 
 <img width="341" height="48" alt="image" src="https://github.com/user-attachments/assets/0b2a115f-8ba8-4978-8688-0bd517ac7dba" />
+
+## Command 4: _ls -l_
+<img width="840" height="326" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/10d1b5eb-bb0c-4c5f-b3f3-93994e331c6a" />
