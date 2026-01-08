@@ -14,3 +14,6 @@
 
 ## Command 4: _ls -l_
 <img width="840" height="326" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/10d1b5eb-bb0c-4c5f-b3f3-93994e331c6a" />
+
+## Command 5: _stat_
+<img width="956" height="240" alt="image" style="width:75%; height:auto;" src="https://github.com/user-attachments/assets/8683e451-3417-4aee-b17e-fa962df3a60d" />
