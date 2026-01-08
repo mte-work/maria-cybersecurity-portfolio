@@ -1,4 +1,4 @@
-# Process and Port Visibility Practice
+# Processes and Ports
 
 This file documents commands used to identify running processes and listening network ports.
 
