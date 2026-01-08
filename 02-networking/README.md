@@ -1,4 +1,4 @@
-# Networking Fundamentals for Cybersecurity
+# Networking Fundamentals
 
 ## Objective
 Understand basic networking concepts and commands used to identify and analyze network connectivity.
