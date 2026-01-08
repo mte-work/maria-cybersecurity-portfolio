@@ -17,3 +17,7 @@
 
 ## Command 5: _stat_
 <img width="956" height="240" alt="image" style="width:75%; height:auto;" src="https://github.com/user-attachments/assets/8683e451-3417-4aee-b17e-fa962df3a60d" />
+
+## Command 6: chgrp
+
+<img width="793" height="242" alt="image" style="width:75%; height:auto;" src="https://github.com/user-attachments/assets/05ef72c2-d68a-4938-a3af-979e5213db89" />
