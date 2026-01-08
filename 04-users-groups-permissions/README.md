@@ -1,4 +1,4 @@
-# Users, Groups, and Permissions in Linux
+# Users, Groups, and Permissions
 
 ## Objective
 Understand how user accounts, groups, and file permissions control access on a Linux system.
