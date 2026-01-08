@@ -1,4 +1,4 @@
-# Processes and Ports in Linux
+# Processes and Ports
 
 ## Objective
 Learn how to identify running processes and open network ports on a Linux system.
