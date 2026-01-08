@@ -1,4 +1,4 @@
-# **Networking Command Practice**
+# **Networking Fundamentals**
 
 This file documents basic networking commands and explains their relevance to cybersecurity.
 
