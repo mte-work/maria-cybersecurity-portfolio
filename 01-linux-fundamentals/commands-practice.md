@@ -97,7 +97,13 @@ ls -l
 <!--<img width="827" height="128" alt="image" style="width:50%; height:auto;" src="https://github.com/user-attachments/assets/388f2f26-16f3-4dc7-81d1-54a1b7ae06e8" />-->
 
 ### _Purpose_:
-The `chmod` command changes file permissions. Understanding and correcting permissions is a core security responsibility.
+The `chmod` command changes file permissions. Understanding and correcting permissions is a core security responsibility. Each digit represents permissions for one role:
+
+| Permission  | Value |
+| ----------- | ----- |
+| read (r)    | 4     |
+| write (w)   | 2     |
+| execute (x) | 1     |
 
 ### _Why This Matters in Cybersecurity:_
 Incorrect file permissions can:
@@ -111,6 +117,28 @@ ls -l permission-test.txt
 chmod 600 permission-test.txt
 ls -l permission-test.txt
 ```
+
+
+```bash
+- rw- --- ---
+  ^    ^   ^
+  |    |   |
+Owner Group Others
+```
+
+Owner → `6`
+- read (4) + write (2) = 6
+- Permissions: rw-
+
+Group → `0`
+- no permissions
+- Permissions: ---
+
+Others → `0`
+- no permissions
+- Permissions: ---
+
+This permission setup is commonly used for private config files, SSH keys and sensitive data files. It enforces least privilege. 
 
 ## Command 7: ![_ls /var/log](https://github.com/mte-work/maria-cybersecurity-portfolio/blob/Portfolio/01-linux-fundamentals/screenshots/01-linux-fundamentals-screenshots.md#command-7-viewing-system-logs)
 
