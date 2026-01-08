@@ -8,3 +8,6 @@
 
 <img width="997" height="58" alt="image" src="https://github.com/user-attachments/assets/a0ae4333-f77e-40b3-b380-05a25fb59a70" />
 
+## Command 3: _groups_
+
+<img width="341" height="48" alt="image" src="https://github.com/user-attachments/assets/0b2a115f-8ba8-4978-8688-0bd517ac7dba" />
